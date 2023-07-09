@@ -14,7 +14,7 @@
 	<name>wordle-service</name>
 	<description>My Wordle Solver as a service</description>
 	<properties>
-		<java.version>20</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
